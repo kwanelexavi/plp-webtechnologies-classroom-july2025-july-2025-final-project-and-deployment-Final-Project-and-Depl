@@ -53,16 +53,7 @@ All pages share a **common header/footer**, a **global stylesheet** (`styles.css
 - **JavaScript Safety**  
   `script.js` checks if elements exist before attaching event listeners, ensuring the script runs **safely on every page**.
 
----
-
-## 📡 Data & Integrations
-- Purely **static site**:  
-  - **No backend**  
-  - **No database**  
-  - **No external APIs**
-- All content is stored in the HTML files.  
-- Replace placeholder links (`#`) with **real URLs** when available.
-
+  
 ---
 
 ## Live Demo
