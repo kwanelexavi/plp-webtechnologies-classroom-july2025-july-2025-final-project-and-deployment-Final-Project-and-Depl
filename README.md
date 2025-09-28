@@ -8,9 +8,9 @@ This assignment will guide you from planning your site all the way to deploying 
 
 ## Live Demo
 
-🌐 **Live Website**: [https://https://dlalabrothes.netlify.app
+🌐 **Live Website**: https://dlalabrothes.netlify.app
 
---
+---
 
 ## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
 
